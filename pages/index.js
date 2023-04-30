@@ -1,7 +1,5 @@
 import { Inter } from 'next/font/google'
-import { BsFillMoonStarsFill } from 'react-icons/bs'
 import { GiSittingDog } from 'react-icons/gi'
-import { AiFillTwitterCircle, AiFillLinkedin, AiFillYoutube } from 'react-icons/ai'
 import { useState } from 'react'
 
 const inter = Inter({ subsets: ['latin'] })
